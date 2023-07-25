@@ -1,0 +1,8 @@
+com\bigdata\A$B.class
+com\bigdata\DemoInterceptor$Builder.class
+com\bigdata\DemoInterceptor.class
+com\bigdata\MyInterceptor$BuilderEvent.class
+com\bigdata\NewsInterceptor$BuilderEvent.class
+com\bigdata\MyInterceptor.class
+com\bigdata\A.class
+com\bigdata\NewsInterceptor.class
